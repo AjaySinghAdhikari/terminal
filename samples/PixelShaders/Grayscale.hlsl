@@ -1,4 +1,4 @@
-// A minimal pixel shader that inverts the colors
+// A minimal pixel shader that converts to grayscale
 
 // The terminal graphics as a texture
 Texture2D shaderTexture;
